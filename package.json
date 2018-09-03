@@ -1,0 +1,25 @@
+{
+  "name": "promise-order",
+  "version": "1.0.0",
+  "description": "Run promise in order like promise-queue",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SP-Lyu/promise-order.git"
+  },
+  "keywords": [
+    "javascript",
+    "promise",
+    "order",
+    "queue"
+  ],
+  "author": "SP-Lyu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SP-Lyu/promise-order/issues"
+  },
+  "homepage": "https://github.com/SP-Lyu/promise-order#readme"
+}
