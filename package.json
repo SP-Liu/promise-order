@@ -1,5 +1,5 @@
 {
-  "name": "promise-order",
+  "name": "promise-lite-order",
   "version": "1.0.0",
   "description": "Run promise in order like promise-queue",
   "main": "index.js",
